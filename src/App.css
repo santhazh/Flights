@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.floatRight {
+  float: right;
+}
+.floatLeft {
+float: left;
+}
+.customInputs {
+  padding: 30px;
+}
+.customInputDiv {
+  padding-left: 20px;
+}
+/* .backgroundSearch {
+  background: beige;
+  height: 100vh;
+} */
+.searchButton {
+  background: gainsboro;
+}
+.agGridTable {
+  padding-left: 60px !important;
+}
